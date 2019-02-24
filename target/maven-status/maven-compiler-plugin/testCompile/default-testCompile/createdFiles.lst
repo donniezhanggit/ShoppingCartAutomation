@@ -1,0 +1,5 @@
+base\BasePage.class
+pages\ReadPropertyFile.class
+base\SharedSteps.class
+pages\HomePage.class
+sanitySuite\ShoppingCartTest.class

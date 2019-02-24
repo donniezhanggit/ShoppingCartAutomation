@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Searched for item successfully]]>
+    </line>
+    <line>
+      <![CDATA[Item added successfully to cart]]>
+    </line>
+    <line>
+      <![CDATA[Entered new user email successfully]]>
+    </line>
+    <line>
+      <![CDATA[New user created successfully]]>
+    </line>
+    <line>
+      <![CDATA[Confirmed address.]]>
+    </line>
+    <line>
+      <![CDATA[Accepted T&C]]>
+    </line>
+    <line>
+      <![CDATA[Confirmed carrier]]>
+    </line>
+    <line>
+      <![CDATA[Selected payment method.]]>
+    </line>
+    <line>
+      <![CDATA[Order is completed successfully]]>
+    </line>
+    <line>
+      <![CDATA[User sign out from app.]]>
+    </line>
+    <line>
+      <![CDATA[Item added successfully to cart]]>
+    </line>
+    <line>
+      <![CDATA[Confirmed address.]]>
+    </line>
+    <line>
+      <![CDATA[Accepted T&C]]>
+    </line>
+    <line>
+      <![CDATA[Confirmed carrier]]>
+    </line>
+    <line>
+      <![CDATA[Selected payment method.]]>
+    </line>
+    <line>
+      <![CDATA[Order is completed successfully]]>
+    </line>
+    <line>
+      <![CDATA[User sign out from app.]]>
+    </line>
+  </reporter-output>
+  <suite name="Test" duration-ms="384434" started-at="2019-02-24T17:37:11Z" finished-at="2019-02-24T17:43:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="384434" started-at="2019-02-24T17:37:11Z" finished-at="2019-02-24T17:43:36Z">
+      <class name="sanitySuite.ShoppingCartTest">
+        <test-method status="PASS" signature="AddItemToCartandCheckoutForNewUser()[pri:0, instance:sanitySuite.ShoppingCartTest@6fdbe764]" name="AddItemToCartandCheckoutForNewUser" duration-ms="209545" started-at="2019-02-24T23:07:11Z" finished-at="2019-02-24T23:10:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Searched for item successfully]]>
+            </line>
+            <line>
+              <![CDATA[Item added successfully to cart]]>
+            </line>
+            <line>
+              <![CDATA[Entered new user email successfully]]>
+            </line>
+            <line>
+              <![CDATA[New user created successfully]]>
+            </line>
+            <line>
+              <![CDATA[Confirmed address.]]>
+            </line>
+            <line>
+              <![CDATA[Accepted T&C]]>
+            </line>
+            <line>
+              <![CDATA[Confirmed carrier]]>
+            </line>
+            <line>
+              <![CDATA[Selected payment method.]]>
+            </line>
+            <line>
+              <![CDATA[Order is completed successfully]]>
+            </line>
+            <line>
+              <![CDATA[User sign out from app.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AddItemToCartandCheckoutForNewUser -->
+        <test-method status="PASS" signature="AddItemToCartandCheckoutForExistingUser()[pri:0, instance:sanitySuite.ShoppingCartTest@6fdbe764]" name="AddItemToCartandCheckoutForExistingUser" duration-ms="174846" started-at="2019-02-24T23:10:41Z" finished-at="2019-02-24T23:13:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Item added successfully to cart]]>
+            </line>
+            <line>
+              <![CDATA[Confirmed address.]]>
+            </line>
+            <line>
+              <![CDATA[Accepted T&C]]>
+            </line>
+            <line>
+              <![CDATA[Confirmed carrier]]>
+            </line>
+            <line>
+              <![CDATA[Selected payment method.]]>
+            </line>
+            <line>
+              <![CDATA[Order is completed successfully]]>
+            </line>
+            <line>
+              <![CDATA[User sign out from app.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AddItemToCartandCheckoutForExistingUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:sanitySuite.ShoppingCartTest@6fdbe764]" name="tearDown" is-config="true" duration-ms="948" started-at="2019-02-24T23:13:36Z" finished-at="2019-02-24T23:13:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sanitySuite.ShoppingCartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Test -->
+</testng-results>
